@@ -1,0 +1,16 @@
+
+
+
+*.pyc
+
+db.sqlite3
+
+venv/*
+
+venv/
+
+/venv
+
+
+.idea
+.idea/*
